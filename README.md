@@ -1,2 +1,8 @@
 # vr360
-360° WordPress plugin for float Magazin, based on Pannellum
+A simple 360° WordPress plugin for float Magazin.
+
+based on Pannellum:<br>
+https://pannellum.org
+
+Shortcode:<br>
+[image_360 src="YOUR_IMAGE_URL"]
