@@ -31,6 +31,7 @@ function display_vr360($atts) {
         var viewer = pannellum.viewer('{$viewer_id}', {
             'type': 'equirectangular',
             'panorama': '{$attributs['src']}',
+            'showFullscreenCtrl': true,
             'autoLoad': true
         });
     });
